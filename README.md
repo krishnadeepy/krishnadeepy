@@ -2,9 +2,7 @@
 
 [<img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-<!-- [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube] -->
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<!-- [<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev" />][devto] -->
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 <br />
@@ -104,15 +102,14 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 
 
 
-## My GitHub Stats 💻
+<!-- ## My GitHub Stats 💻
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadeepy&hide=html,css&theme=dark)](https://github.com/krishnadeepy/github-readme-stats)
 [![Shreejit's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnadeepy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/krishnadeepy/github-readme-stats)
-
 ![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=krishnadeepy&theme=highcontrast)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishnadeepy)
-<br />
+<br /> -->
 
 [twitter]: https://twitter.com/KDYerramallu
 [youtube]: https://www.youtube.com/channel/UCkxV3Br2EsN0lxWowBFOpKw
@@ -126,7 +123,6 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 [patreon]: https://www.patreon.com/krishnadeepy
 [paypal]: https://paypal.me/krishnadeepy?country.x=IN&locale.x=en_GB
 
-Here’s the full-fledged **Certifications** section, formatted with attractive badges and clickable links for easy navigation:
 
 
 ### 🏆 Certifications
