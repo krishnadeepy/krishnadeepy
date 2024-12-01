@@ -2,9 +2,9 @@
 
 [<img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
+<!-- [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube] -->
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev" />][devto]
+<!-- [<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev" />][devto] -->
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 <br />
@@ -114,14 +114,14 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishnadeepy)
 <br />
 
-[twitter]: https://twitter.com/krishnadeepy
+[twitter]: https://twitter.com/KDYerramallu
 [youtube]: https://www.youtube.com/channel/UCkxV3Br2EsN0lxWowBFOpKw
-[website]: https://www.krishnadeepy.com/
-[instagram]: https://www.instagram.com/krishnadeepy/
+[website]: https://krishnadeepy.github.io/resume/
+[instagram]: https://www.instagram.com/krishnadeep_/
 [discord]: https://discord.gg/As463f7tv4
 [linkedin]: https://www.linkedin.com/in/krishnadeepy/
 [devto]: https://dev.to/krishnadeepy
-[gmail]: mailto:krishnadeepy@gmail.com
+[gmail]: mailto:krishnadeep.y@gmail.com
 [facebook]: https://facebook.com/krishnadeepy
 [patreon]: https://www.patreon.com/krishnadeepy
 [paypal]: https://paypal.me/krishnadeepy?country.x=IN&locale.x=en_GB
