@@ -126,7 +126,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 
 ### 🏆 Certifications
 
-#### **Finance & Quantitative Modeling**
+<!-- #### **Finance & Quantitative Modeling**
 - [![CFA Level 1](https://img.shields.io/badge/CFA%20Level%201-3D9AC9?style=flat&logo=cfa-institute)](https://www.cfainstitute.org/en/programs/cfa)
 - [![Bloomberg Market Concepts](https://img.shields.io/badge/Bloomberg%20Market%20Concepts-232F44?style=flat&logo=bloomberg)](https://portal.bloombergforeducation.com/certificates/8Nm9y3yx5b9yaWztgxSmewLD)
 - [Financial Engineering and Risk Management - Part I & II](https://coursera.org/share/70b94743c090c143954cdcbe01ebf521) (Coursera)
@@ -144,7 +144,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 - [Investment Management Specialization (University of Geneva, UBS)](https://www.coursera.org/specializations/investment-management)
 - [Corporate Finance and Valuation (NYU Stern - Aswath Damodaran)](https://coursera.org/share/ad6c6e3574db71e2e38777b74b6af97f)
 
----
+--- -->
 
 <!-- #### **Data Science & Machine Learning**
 - [![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning%20Specialization-FF6F00?style=flat&logo=deeplearning)](https://coursera.org/share/62c6f8a2d4a998dc4856249a1a937e17)
