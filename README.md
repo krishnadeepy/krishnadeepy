@@ -1,4 +1,4 @@
-## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm , [Shreejit][website]
+## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm , [Krishna Deep (KD)][website]
 
 [<img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -23,41 +23,19 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 
 ## 🏢 Professional Experience  
 
-### **LogiNext Solutions Inc.** — Senior Software Engineer (Head of Analytics)  
-*Mar 2023 – Jul 2024 | Mumbai, India*  
+### **Silicon Labs, Inc** — Data Engineer / Business Analyst  
+*Aug 2022 – Aug 2024 | Hyderabad, India*  
 - Designed and implemented **Map Construction and Routing Algorithms** to solve complex NP-hard problems.  
 - Built a **Large Language Model (LLM)** for internal development and bug query resolution, reducing issue resolution time by 80%.  
 - Led a team of 12 to develop a high-performance **geospatial mapping application** using PostGIS, MongoDB, and AWS.
-  
-### **Versor Investments (QR Systems LLP)** — Quantitative Developer  
-*Feb 2022 – Oct 2022 | New York, USA*  
-- Developed ML-driven **Order and Execution Management Systems**, improving trade execution efficiency by 20%.  
-- Backtested and deployed **systematic merger arbitrage strategies**, increasing alpha capture by 15%.  
-- Engineered **risk-adjusted return models** for optimizing portfolio risk exposure and factor analysis.  
-- Managed a combined **AUM of $8.5 Billion** across merger arbitrage and stock selection portfolios.
-
-### **Bank of America (BA Continuum)** — Senior Software Engineer  
-*Jan 2020 – Jul 2021 | Chennai, India*  
-- Migrated 1M+ lines of code to **Python 3.8**, improving efficiency by 80%.  
-- Developed trading services for **bonds, futures, and options** within the FICC post-trade processing team.  
-- Reduced **trade processing latency by 50%** through Python and C++ integration on the QUARTZ platform.  
 
 ---
 
 ## 🚀 Key Projects  
 
-- **Dynamic Portfolio Optimization (Master's Thesis):**  
-  Leveraged **stochastic calculus** for real-time portfolio risk mitigation and adjustment.  
-
-- **Financial Modeling Using Stochastic Calculus:**  
-  Applied advanced models (e.g., GBM, Ito’s Lemma, Mean-Reverting Processes) for option pricing and derivative strategies.  
-
-- **Real-Time Market Anomaly Detection:**  
-  Developed low-latency algorithms for HFT applications using advanced signal processing and optimization techniques.  
-
-- **Advanced Derivatives Modeling:**  
-  Implemented **Monte Carlo, SABR, Heston, and Hull-White models** for derivative pricing and robust risk management.  
-
+- **Net Sieve:**  
+  Blazing fast DNS server to filter and block access to restricted or blacklisted websites. The server intercepts DNS queries and cross-references them with a dynamically managed blocklist.
+ 
 ---
 
 ### 🛠 Skills
@@ -118,7 +96,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 ---
 
 #### **Soft Skills**
-- Strong leadership and team management experience (Led teams of up to 12).  
+- Strong leadership and team management experience.  
 - Proficient in collaborative agile development methodologies.  
 - Skilled at breaking down complex problems and delivering scalable solutions.  
 
@@ -128,25 +106,25 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 
 ## My GitHub Stats 💻
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejitverma&hide=html,css&theme=dark)](https://github.com/shreejitverma/github-readme-stats)
-[![Shreejit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreejitverma&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/shreejitverma/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadeepy&hide=html,css&theme=dark)](https://github.com/krishnadeepy/github-readme-stats)
+[![Shreejit's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnadeepy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&theme=dracula)](https://github.com/krishnadeepy/github-readme-stats)
 
-![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=shreejitverma&theme=highcontrast)
+![GitHub Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=krishnadeepy&theme=highcontrast)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreejitverma)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishnadeepy)
 <br />
 
-[twitter]: https://twitter.com/shreejitverma
+[twitter]: https://twitter.com/krishnadeepy
 [youtube]: https://www.youtube.com/channel/UCkxV3Br2EsN0lxWowBFOpKw
-[website]: https://www.shreejitverma.com/
-[instagram]: https://www.instagram.com/shreejitverma/
+[website]: https://www.krishnadeepy.com/
+[instagram]: https://www.instagram.com/krishnadeepy/
 [discord]: https://discord.gg/As463f7tv4
-[linkedin]: https://www.linkedin.com/in/shreejitverma/
-[devto]: https://dev.to/shreejitverma
-[gmail]: mailto:shreejitverma@gmail.com
-[facebook]: https://facebook.com/shreejitverma
-[patreon]: https://www.patreon.com/shreejitverma
-[paypal]: https://paypal.me/shreejitverma?country.x=IN&locale.x=en_GB
+[linkedin]: https://www.linkedin.com/in/krishnadeepy/
+[devto]: https://dev.to/krishnadeepy
+[gmail]: mailto:krishnadeepy@gmail.com
+[facebook]: https://facebook.com/krishnadeepy
+[patreon]: https://www.patreon.com/krishnadeepy
+[paypal]: https://paypal.me/krishnadeepy?country.x=IN&locale.x=en_GB
 
 Here’s the full-fledged **Certifications** section, formatted with attractive badges and clickable links for easy navigation:
 
@@ -215,7 +193,7 @@ Here’s the full-fledged **Certifications** section, formatted with attractive 
 
 
 <!--
-**shreejitverma/shreejitverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**krishnadeepy/krishnadeepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
