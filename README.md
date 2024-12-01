@@ -77,7 +77,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 
----
+<!-- ---
 #### **Quantitative Finance**
 - **Derivative Pricing Models:** Black-Scholes, Heston, SABR, Hull-White, Monte Carlo Simulation  
 - **Portfolio Management:** Risk Management, Factor Modeling, Dynamic Optimization  
@@ -88,7 +88,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 #### **Mathematics and Statistics**
 - **Stochastic Calculus:** Brownian Motion, Geometric Brownian Motion, Ito’s Lemma  
 - **Numerical Methods:** PDEs, ODEs, Mean-Reverting Processes (Ornstein-Uhlenbeck)  
-- **Optimization:** Linear and Non-Linear Optimization  
+- **Optimization:** Linear and Non-Linear Optimization   -->
 
 ---
 
@@ -146,7 +146,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 
 ---
 
-#### **Data Science & Machine Learning**
+<!-- #### **Data Science & Machine Learning**
 - [![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning%20Specialization-FF6F00?style=flat&logo=deeplearning)](https://coursera.org/share/62c6f8a2d4a998dc4856249a1a937e17)
 - [Applied Data Science with Python Specialization (University of Michigan)](https://coursera.org/share/a24e1310f62486c32f6a2393fa1240dc)
   - Includes: Applied Text Mining, Machine Learning, and Data Visualization
@@ -167,7 +167,7 @@ I am a **Data Engineer and Software Developer** with extensive experience in des
 - [Regression Models (Data Science Statistics and Machine Learning Specialization)](https://www.coursera.org/learn/regression-models?specialization=data-science-statistics-machine-learning)
 - [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis?specialization=data-science-statistics-machine-learning)
 - [Practical Machine Learning (JHU)](https://coursera.org/share/e2c31a9900603149be868d0fed729b33)
-- [Python for Everybody (University of Michigan)](https://coursera.org/share/1266287fba2a17e954350a24cbcda288)
+- [Python for Everybody (University of Michigan)](https://coursera.org/share/1266287fba2a17e954350a24cbcda288) -->
 
 ---
 
